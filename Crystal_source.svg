@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+<linearGradient id="brd0" x1="0%" y1="0%" x2="100%" y2="100%" spreadMethod="pad">
+<stop offset="0%" stop-color="#DDD" stop-opacity="1"/>
+<stop offset="100%" stop-color="#669" stop-opacity="1"/>
+</linearGradient>
+<linearGradient id="brd1" x1="0%" y1="0%" x2="100%" y2="100%" spreadMethod="pad">
+<stop offset="0%" stop-color="#B8B8C8" stop-opacity="1"/>
+<stop offset="100%" stop-color="#9393B3" stop-opacity="1"/>
+</linearGradient>
+<linearGradient id="brd2" x1="0%" y1="0%" x2="60%" y2="60%" spreadMethod="pad">
+<stop offset="0%" stop-color="#000" stop-opacity="1"/>
+<stop offset="100%" stop-color="#FFF" stop-opacity="1"/>
+</linearGradient>
+<linearGradient id="bgr0" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+<stop offset="0%" stop-color="#DDE" stop-opacity="1"/>
+<stop offset="100%" stop-color="#FFF" stop-opacity="1"/>
+</linearGradient>
+<linearGradient id="bgr1" x1="42%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
+<stop offset="0%" stop-color="#FFF" stop-opacity="1"/>
+<stop offset="100%" stop-color="#EDEDF5" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path d="M37,5.9L51.1,19L37,19" style="fill:#FFF"/>
+<path d="M37,5.9L51.1,19" style="stroke:url(#brd1)"/>
+<polygon points="13,6 37,6 37,19 51,19 51,58 13,58" style="stroke:url(#brd0);fill:url(#bgr0)"/>
+<path d="M14,40A19,34 0 0,1 26,32L31,31A38,26 0 0,0 42,20L36,20L36,7L14,7L14,40" style="fill:url(#bgr1)"/>
+<circle r="2" cx="21" cy="14" style="fill:#FFF;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="31" cy="14" style="fill:#FDFDFE;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="21" cy="21" style="fill:#FFF;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="31" cy="21" style="fill:#FBFBFC;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="31" cy="28" style="fill:#F5F5F7;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="41" cy="28" style="fill:#E9E9EF;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="21" cy="36" style="fill:#F6F6F9;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="31" cy="36" style="fill:#F6F6F9;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="21" cy="43" style="fill:#F2F2F5;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="31" cy="43" style="fill:#E8E8ED;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="41" cy="43" style="fill:#DFDFE7;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="21" cy="50" style="fill:#EDEDF0;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="31" cy="50" style="fill:#E3E3E9;stroke:url(#brd2);stroke-width:0.5"/>
+<circle r="2" cx="41" cy="50" style="fill:#E3E3E9;stroke:url(#brd2);stroke-width:0.5"/>
+</svg>
